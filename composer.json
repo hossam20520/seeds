@@ -1,7 +1,7 @@
 {
-    "name": "hossam/now-random",
+    "name": "seeds/seeds",
     "type": "library",
-    "license": "GBL2",
+    "license": "MIT",
     "authors": [
         {
             "name": "hossam hassan",
