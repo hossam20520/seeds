@@ -1,0 +1,17 @@
+{
+    "name": "hossam/now-random",
+    "type": "library",
+    "license": "GBL2",
+    "authors": [
+        {
+            "name": "hossam hassan",
+            "email": "hossamhassan889@gmail.com"
+        }
+    ],
+   
+    "require": {},
+    "autoload": {
+        
+        "psr-4": {"Inc\\": "Inc/"}
+    }
+}
